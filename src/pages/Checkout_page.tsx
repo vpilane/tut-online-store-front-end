@@ -72,7 +72,7 @@ const Checkout_page: React.FC = () => {
     const itemNames = products.map(p => p.name);
 
     try {
-      const res = await fetch("https://tut-online-store.onrender.com/suggest_grocery_items/", {
+      const res = await fetch("https://python-ai-xzor.onrender.com/suggest_grocery_items/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ items: itemNames }),
