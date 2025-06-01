@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/tut-online-store-front-end/static/css/main.df478443.css",
-    "main.js": "/tut-online-store-front-end/static/js/main.5df04991.js",
+    "main.js": "/tut-online-store-front-end/static/js/main.23983aa6.js",
     "static/js/977.a7e1381c.chunk.js": "/tut-online-store-front-end/static/js/977.a7e1381c.chunk.js",
     "static/js/455.719eadc0.chunk.js": "/tut-online-store-front-end/static/js/455.719eadc0.chunk.js",
     "static/media/online_b.jpg": "/tut-online-store-front-end/static/media/online_b.4f6acddcdfe04a42076a.jpg",
     "index.html": "/tut-online-store-front-end/index.html",
     "main.df478443.css.map": "/tut-online-store-front-end/static/css/main.df478443.css.map",
-    "main.5df04991.js.map": "/tut-online-store-front-end/static/js/main.5df04991.js.map",
+    "main.23983aa6.js.map": "/tut-online-store-front-end/static/js/main.23983aa6.js.map",
     "977.a7e1381c.chunk.js.map": "/tut-online-store-front-end/static/js/977.a7e1381c.chunk.js.map",
     "455.719eadc0.chunk.js.map": "/tut-online-store-front-end/static/js/455.719eadc0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df478443.css",
-    "static/js/main.5df04991.js"
+    "static/js/main.23983aa6.js"
   ]
 }
