@@ -1,0 +1,14 @@
+h1{
+
+    color: #4CAF50;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+body {
+  background-image: url("C:\Users\tvpil\Desktop\my-app\public\online_b.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 80vh;
+}
