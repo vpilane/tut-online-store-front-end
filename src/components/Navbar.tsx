@@ -35,7 +35,7 @@ const Navbar = ({ setSearchQuery, setFilteredProducts }: { setSearchQuery: (q: s
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
             <div className="container">
-                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" title="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNav">

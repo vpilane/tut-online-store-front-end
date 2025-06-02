@@ -14,7 +14,7 @@ const Payment_page: React.FC = () => {
           <input type="hidden" name="merchant_key" value="46f0cd694581a" />
           <input type="hidden" name="amount" value={grandTotal} />
           <input type="hidden" name="item_name" value="Test Product" />
-          <input type="hidden" name="return_url" value="http://localhost:3000/Confirmation_page" />
+          <input type="hidden" name="return_url" value="https://tut-online-store.onrender.com/Confirmation_page" />
           <input
             type="submit"
             className="btn btn-primary"
